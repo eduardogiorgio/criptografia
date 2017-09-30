@@ -5,7 +5,7 @@ Este proyecto fue creado para exponer los trabajos realizados en Cátedra de Cri
 * Lenguaje de programacion python: https://www.python.org/downloads/
 * Herramienta de versionado git:https://git-scm.com/downloads
 
-# Propuesta de algoritmos a cifrados y algoritmos a implmentar:
+# Algorimos a realizar:
 * Cifrado de Cesar
 * Cifrado de Hill
 * Algorimo de Euclides
